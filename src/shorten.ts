@@ -12,7 +12,9 @@ const shortenedNames: { [character: string]: string } = {
   'Tempest#7268': 'Morgan',
   'Orin Carver': 'Orin',
   'Kraken#1001': 'Kat',
-  'newt#2465': 'Hope'
+  'newt#2465': 'Hope',
+  'Moordnnaar#6673': 'Liam',
+  'iconoplast#9086': 'Willem'
 }
 
 export const shorten: MessageFilter = (messages: Message[]) =>

@@ -13,7 +13,9 @@ const shortenedNames = {
     'Tempest#7268': 'Morgan',
     'Orin Carver': 'Orin',
     'Kraken#1001': 'Kat',
-    'newt#2465': 'Hope'
+    'newt#2465': 'Hope',
+    'Moordnnaar#6673': 'Liam',
+    'iconoplast#9086': 'Willem'
 };
 exports.shorten = (messages) => messages
     .map((message) => {

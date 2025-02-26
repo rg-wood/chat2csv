@@ -1,6 +1,6 @@
 {
   "name": "chat2csv",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Script to convert Roll20 and Discord chat logs to CSV.",
   "repository": "https://github.com/rg-wood/chat2csv",
   "license": "MIT",
